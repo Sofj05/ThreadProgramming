@@ -1,4 +1,4 @@
-// Opgave 2
+/* Opgave 2
 package org.example;
 
 public class MyThreadTask implements Runnable {
@@ -14,3 +14,4 @@ public class MyThreadTask implements Runnable {
         System.out.println("Hallo, Jeg hedder Thread #" + threadNumber);
     }
 }
+ */
